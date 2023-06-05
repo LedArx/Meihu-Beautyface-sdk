@@ -40,17 +40,3 @@ Meihu beauty sdk is a mobile sdk with face recognition technology as the core, p
 * If you want to use the beauty sdk with more complete functions, please contact QQ customer service: 1532375297 to obtain other versions
 * 欢迎了解更多公司信息，请查看:http://www.facegl.com/en.html
 * Welcome to know more company information, please check:http://www.facegl.com/en.html
-
-### 交流互动（加客服经理微信或加入开源群，请备注“github美颜”）
-### Communication and interaction (add customer service manager WeChat or join open source group)
-![输入图片说明](https://edu-qiniu.sdwanyue.com/admin/20220825/bc6a6a62e404104b23a8fa064305e47e.jpg "wxer1.png")
-
-
-点击链接加入群聊【美狐开源学习交流群】Click the link to join the group chat [Meihu Open Source Learning Exchange Group]：https://jq.qq.com/?_wv=1027&k=8b8WsWFE
-
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0916/173830_95d0c197_9236797.png "美狐开源学习交流群群聊二维码.png")
-
-美颜开源QQ群：101672457 
-skype：live:1532375297
-
-
